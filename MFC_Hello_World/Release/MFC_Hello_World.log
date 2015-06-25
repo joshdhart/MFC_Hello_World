@@ -1,0 +1,27 @@
+﻿Build started 6/24/2015 9:19:51 PM.
+     1>Project "C:\Users\Josh\Documents\Visual Studio 2013\Projects\MFC_Hello_World\MFC_Hello_World\MFC_Hello_World.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\MFC_Hello_World.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\MFC_Hello_World.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp MFC_Hello_World.cpp MFC_Hello_WorldDoc.cpp MFC_Hello_WorldView.cpp
+         MainFrm.cpp
+         MFC_Hello_World.cpp
+         MFC_Hello_WorldDoc.cpp
+         MFC_Hello_WorldView.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0409" /IRelease\ /nologo /fo"Release\MFC_Hello_World.res" MFC_Hello_World.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Josh\Documents\Visual Studio 2013\Projects\MFC_Hello_World\Release\MFC_Hello_World.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Josh\Documents\Visual Studio 2013\Projects\MFC_Hello_World\Release\MFC_Hello_World.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Josh\Documents\Visual Studio 2013\Projects\MFC_Hello_World\Release\MFC_Hello_World.lib" /MACHINE:X86 /SAFESEH Release\MFC_Hello_World.res
+         Release\MainFrm.obj
+         Release\MFC_Hello_World.obj
+         Release\MFC_Hello_WorldDoc.obj
+         Release\MFC_Hello_WorldView.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         MFC_Hello_World.vcxproj -> C:\Users\Josh\Documents\Visual Studio 2013\Projects\MFC_Hello_World\Release\MFC_Hello_World.exe
+     1>Done Building Project "C:\Users\Josh\Documents\Visual Studio 2013\Projects\MFC_Hello_World\MFC_Hello_World\MFC_Hello_World.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.80
